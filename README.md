@@ -3,15 +3,17 @@
 <h1 align="center">Hi 👋, I'm Muhammad Arslan</h1>
 <h3 align="center">Full Stack Web Developer & Flutter Mobile App Developer</h3>
 
-<img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslandev97&label=Profile%20views&color=0e75b6&style=flat" alt="arslandev97" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arslandev97" alt="arslandev97" /></a> </p>
 
+<img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 <p align="left"> <a href="https://twitter.com/arslanyousafsay" target="blank"><img src="https://img.shields.io/twitter/follow/arslanyousafsay?logo=twitter&style=for-the-badge" alt="arslanyousafsay" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter app development and Web development**
+- 🔭 I’m currently working as a **Flutter app development and Web development**
 
 - 🌱 I’m currently learning **Rebotics Process Automation**
 
