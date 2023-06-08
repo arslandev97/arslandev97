@@ -1,7 +1,7 @@
 ![logo](https://github.com/arslandev97/arslandev97/blob/main/Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Arslan</h1>
-<h3 align="center">Full Stack Web Developer & Flutter Mobile App Developer</h3>
+<h3 align="center">a dedicated and results-driven software engineer from Pakistan. With a strong background in programming and problem-solving.</h3>
 
 
 
