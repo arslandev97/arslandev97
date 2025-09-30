@@ -1,7 +1,7 @@
 ![logo](https://github.com/arslandev97/arslandev97/blob/main/Arslandev97.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Arslan</h1>
-<h3 align="center">A dedicated and results-driven software engineer from Pakistan. With a strong background in programming and problem-solving.</h3>
+<h3 align="center">Experienced Full-Stack MERN & Flutter Developer | Creating Efficient, Scalable Digital Solutions for Businesses</h3>
 
 
 
